@@ -23,11 +23,12 @@ Database structure, relationships and sample data
 GitHub repository and version control
 # Repository Structure
 RaceDay/
-│
-├── docs/
-│   ├── RaceDay_ERD.png
-│   ├── API_Endpoint_Plan.pdf
-│   └── RaceDay_Database.sql
+(inside RaceDay Foler) 
+docs/
+(inside docs Folder)
+-RaceDay_ERD.png
+-API_Endpoint_Plan.pdf
+-RaceDay_Database.sql
 
 Database
 
