@@ -1,3 +1,6 @@
+# Presentation link
+https://youtu.be/hoGw8N9S6L0?si=VIs_SgN004MDMYyi
+
 # RaceDayPOE
 Project Overview
 
@@ -21,6 +24,7 @@ API Endpoint Plan
 SQL Server database script
 Database structure, relationships and sample data
 GitHub repository and version control
+////////////////////////////////////////
 # Repository Structure
 RaceDay/
 (inside RaceDay Foler) 
@@ -29,8 +33,8 @@ docs/
 -RaceDay_ERD.png
 -API_Endpoint_Plan.pdf
 -RaceDay_Database.sql
-
-Database
+/////////////////////////////////////////////////
+# Database
 
 The RaceDay database is designed using SQL Server.
 
