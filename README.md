@@ -87,8 +87,3 @@ The part one branch contains the Part 1 requirements and documentation, includin
 The current master branch contains the Part 2 API implementation, unit tests and continuous integration workflow.
 
 # Demonstration Video
-
-
-YouTube link: [Add your Part 2 demonstration video link here]
-
-CI Screenshot
