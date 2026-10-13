@@ -86,4 +86,5 @@ The project uses Entity Framework Core InMemory to test controller functionality
 The part one branch contains the Part 1 requirements and documentation, including the ERD and SQL materials.
 The current master branch contains the Part 2 API implementation, unit tests and continuous integration workflow.
 
-# Demonstration Video
+# Video Link
+https://youtu.be/qpD0o-GQoj8?si=OTIt7RT-IR2R8Gzc
